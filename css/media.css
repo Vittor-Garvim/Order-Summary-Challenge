@@ -1,0 +1,29 @@
+@media screen and (max-width: 400px){
+    body{
+        background: hsl(225, 100%, 94%) url(../img/pattern-background-mobile.svg) repeat-x;
+    }
+
+    .box{
+        width: 350px;
+    }
+
+    .illustration{
+        width: 350px;
+    }
+
+    .text__summary{
+        padding: 0px 38px;
+    }
+
+    .payment__btn{
+        font-size: 15px;
+    }
+
+    .cancel{
+        font-size: 18px;
+    }
+
+    .buy__plan a{
+        padding-left: 50px;
+    }
+}
